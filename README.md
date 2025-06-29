@@ -54,6 +54,7 @@ Run the notebook and follow the prompts to input your data:
 loan_amount = float(input("Loan amount in USD: "))
 loan_term = float(input("Loan term in years: "))
 num_dependents = float(input("Number of dependents: "))
+```
 # ...
 
 ## Model Output
